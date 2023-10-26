@@ -1,5 +1,7 @@
-# 💫 About Me:
-🎓 Computer Science Student<br>❤️passionate about solving problems<br>💡 Love a good challenge
+# 💫 HI😊:
+🎓 Computer Science Student<br>
+❤️ Passionate about solving problems<br>
+💡 Love a good challenge
 
 
 # 💻 Tech Stack:
