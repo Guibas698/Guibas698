@@ -33,8 +33,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Guibas698/Guibas698/output/snake.svg" alt="Snake animation" />
-
-###
