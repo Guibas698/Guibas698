@@ -36,3 +36,21 @@
 
 ###
 
+## Sobre mim 🚀
+
+<p align="left">
+  👋 Olá! Eu sou Guilherme Lopes. Minha verdadeira paixão é resolver problemas através da tecnologia. Atualmente, estou cursando Ciência da Computação, onde mergulho de cabeça no estudo de algoritmos, estruturas de dados e desenvolvimento de software.
+</p>
+
+<p align="left">
+  ❤️ Também sou fascinado por matemática e adoro explorar conceitos como álgebra, teoria dos números e cálculo para resolver problemas complexos e criar soluções inovadoras.
+</p>
+
+<p align="left">
+  📚 Quando não estou codando, gosto de explorar novas linguagens, ler sobre tecnologia ou me aventurar no mundo dos jogos.
+</p>
+
+<p align="left">
+  Vamos construir algo incrível juntos? 🚀
+</p>
+
