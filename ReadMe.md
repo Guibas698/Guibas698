@@ -12,6 +12,8 @@
 <br clear="both">
 
 <p align="left"> 🤖 Linguagens e Tecnologias </p>
+<hl></hl>
+
 ###
 
 <div align="left">
